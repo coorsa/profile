@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700,900");
 
 body {
   color: black;
@@ -11,8 +11,9 @@ body {
 h1 {
   color: #734b5e;
   font-family: 'Poppins';
-  font-size: 26px;
+  font-size: 32px;
   line-height: 1.4;
+  font-weight: 900;
 }
 
 h2 {
@@ -20,6 +21,7 @@ h2 {
   font-family: 'Poppins';
   font-size: 20px;
   line-height: 1.4;
+  font-weight: 700;
 }
 
 h3 {
